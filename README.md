@@ -5,3 +5,5 @@ Proje 2
 
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 Big-O gösterimini yazınız.
+
+patika.dev
